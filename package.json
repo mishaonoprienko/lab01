@@ -1,0 +1,23 @@
+{
+  "name": "lab01",
+  "version": "1.0.0",
+  "description": "A simple Node.js app to demonstrate the basics.",
+  "main": "task01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mishaonoprienko/lab01.git"
+  },
+  "author": "Mykhailo Onoprienko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mishaonoprienko/lab01/issues"
+  },
+  "homepage": "https://github.com/mishaonoprienko/lab01#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "yargs": "^17.7.2"
+  }
+}
